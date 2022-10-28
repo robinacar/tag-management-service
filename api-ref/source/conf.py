@@ -93,7 +93,7 @@ html_static_path = ['_static']
 
 # -- Options for PDF output --------------------------------------------------
 latex_documents = [
-('index',
+    ('index',
      'tms-api-ref.tex',
      u'Tag Management Service - API Reference',
      u'OpenTelekomCloud', 'manual'),
