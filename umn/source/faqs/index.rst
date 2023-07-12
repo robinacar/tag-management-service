@@ -11,6 +11,8 @@ FAQs
 -  :ref:`What Can I Do If I Failed to Import Tags Edited on the Template to TMS? <tms_faq_0006>`
 -  :ref:`Why Do Invalid Tags Appear? <tms_faq_0007>`
 -  :ref:`How to Restore an Invalid Tag? <tms_faq_0008>`
+-  :ref:`Is it possible to Tag a Service without value? <tms_faq_0009>`
+
 
 .. toctree::
    :maxdepth: 1
